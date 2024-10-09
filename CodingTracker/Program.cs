@@ -1,7 +1,15 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-MyMethod();
-void MyMethod()
+void MyFirstMethod()
 {
-    Console.WriteLine("Now I have a method");
+    
+}
+
+void MySecondMethod()
+{
+   
+}
+void MyThirdMethod()
+{
+
 }
